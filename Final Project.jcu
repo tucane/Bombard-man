@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Final Project</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Final Project</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>split 2</path>
+			</folderitem>
+			<folderitem>
+				<path>split 2\down</path>
+			</folderitem>
+			<folderitem>
+				<path>split 2\right</path>
+			</folderitem>
+			<folderitem>
+				<path>split 2\up</path>
+			</folderitem>
+			<folderitem>
+				<path>split 2\left</path>
+			</folderitem>
+			<folderitem>
+				<path>character</path>
+			</folderitem>
+			<folderitem>
+				<path>level</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>Bomb.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>MainGame.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>WorldMap.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Character.java</path>
+			<source>true</source>
+			<index>3</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>
